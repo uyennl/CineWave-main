@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|c:\\users\\pc\\downloads\\cinewave-main\\cinewave-main\\cinewave\\helpers\\priceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|solutionrelative:cinewave\\helpers\\priceconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|c:\\users\\pc\\downloads\\cinewave-main\\cinewave-main\\cinewave\\helpers\\genrehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|solutionrelative:cinewave\\helpers\\genrehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|c:\\users\\pc\\downloads\\cinewave-main\\cinewave-main\\cinewave\\helpers\\datetostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|solutionrelative:cinewave\\helpers\\datetostringconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|c:\\users\\pc\\downloads\\cinewave-main\\cinewave-main\\cinewave\\mvvm\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|solutionrelative:cinewave\\mvvm\\view\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|c:\\users\\pc\\downloads\\cinewave-main\\cinewave-main\\cinewave\\mvvm\\view\\trailer\\trailerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|solutionrelative:cinewave\\mvvm\\view\\trailer\\trailerview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|c:\\users\\pc\\downloads\\cinewave-main\\cinewave-main\\cinewave\\mvvm\\view\\trailer\\trailerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|solutionrelative:cinewave\\mvvm\\view\\trailer\\trailerview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|c:\\users\\pc\\downloads\\cinewave-main\\cinewave-main\\cinewave\\mvvm\\view\\reservations\\seatbooking\\seatbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|solutionrelative:cinewave\\mvvm\\view\\reservations\\seatbooking\\seatbookingwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|c:\\users\\pc\\downloads\\cinewave-main\\cinewave-main\\cinewave\\mvvm\\view\\reservations\\seatbooking\\seatbookingreservationform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|solutionrelative:cinewave\\mvvm\\view\\reservations\\seatbooking\\seatbookingreservationform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|c:\\users\\pc\\downloads\\cinewave-main\\cinewave-main\\cinewave\\db\\cinewavedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{160A61F5-911B-4874-9F9C-C56E91E8FC49}|CineWave\\CineWave.csproj|solutionrelative:cinewave\\db\\cinewavedatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PriceConverter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\Helpers\\PriceConverter.cs",
+              "RelativeDocumentMoniker": "CineWave\\Helpers\\PriceConverter.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\Helpers\\PriceConverter.cs",
+              "RelativeToolTip": "CineWave\\Helpers\\PriceConverter.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:27:48.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GenreHelper.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\Helpers\\GenreHelper.cs",
+              "RelativeDocumentMoniker": "CineWave\\Helpers\\GenreHelper.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\Helpers\\GenreHelper.cs",
+              "RelativeToolTip": "CineWave\\Helpers\\GenreHelper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:27:46.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DateToStringConverter.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\Helpers\\DateToStringConverter.cs",
+              "RelativeDocumentMoniker": "CineWave\\Helpers\\DateToStringConverter.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\Helpers\\DateToStringConverter.cs",
+              "RelativeToolTip": "CineWave\\Helpers\\DateToStringConverter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T02:27:43.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\MVVM\\View\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "CineWave\\MVVM\\View\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\MVVM\\View\\MainWindow.xaml.cs",
+              "RelativeToolTip": "CineWave\\MVVM\\View\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:56:31.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TrailerView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\MVVM\\View\\Trailer\\TrailerView.xaml.cs",
+              "RelativeDocumentMoniker": "CineWave\\MVVM\\View\\Trailer\\TrailerView.xaml.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\MVVM\\View\\Trailer\\TrailerView.xaml.cs",
+              "RelativeToolTip": "CineWave\\MVVM\\View\\Trailer\\TrailerView.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:56:26.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TrailerView.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\MVVM\\View\\Trailer\\TrailerView.xaml",
+              "RelativeDocumentMoniker": "CineWave\\MVVM\\View\\Trailer\\TrailerView.xaml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\MVVM\\View\\Trailer\\TrailerView.xaml",
+              "RelativeToolTip": "CineWave\\MVVM\\View\\Trailer\\TrailerView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T01:56:18.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SeatBookingWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\MVVM\\View\\Reservations\\SeatBooking\\SeatBookingWindow.xaml",
+              "RelativeDocumentMoniker": "CineWave\\MVVM\\View\\Reservations\\SeatBooking\\SeatBookingWindow.xaml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\MVVM\\View\\Reservations\\SeatBooking\\SeatBookingWindow.xaml",
+              "RelativeToolTip": "CineWave\\MVVM\\View\\Reservations\\SeatBooking\\SeatBookingWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T01:56:07.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SeatBookingReservationForm.xaml",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\MVVM\\View\\Reservations\\SeatBooking\\SeatBookingReservationForm.xaml",
+              "RelativeDocumentMoniker": "CineWave\\MVVM\\View\\Reservations\\SeatBooking\\SeatBookingReservationForm.xaml",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\MVVM\\View\\Reservations\\SeatBooking\\SeatBookingReservationForm.xaml",
+              "RelativeToolTip": "CineWave\\MVVM\\View\\Reservations\\SeatBooking\\SeatBookingReservationForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-07-22T01:55:56.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CineWaveDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\DB\\CineWaveDataContext.cs",
+              "RelativeDocumentMoniker": "CineWave\\DB\\CineWaveDataContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Downloads\\CineWave-main\\CineWave-main\\CineWave\\DB\\CineWaveDataContext.cs",
+              "RelativeToolTip": "CineWave\\DB\\CineWaveDataContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T01:47:34.136Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
